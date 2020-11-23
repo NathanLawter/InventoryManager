@@ -1,0 +1,10 @@
+C:\Users\LawterN\Downloads\InventoryManager\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.deps.json
+C:\Users\LawterN\Downloads\InventoryManager\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.dll
+C:\Users\LawterN\Downloads\InventoryManager\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.pdb
+C:\Users\LawterN\Downloads\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csprojAssemblyReference.cache
+C:\Users\LawterN\Downloads\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\LawterN\Downloads\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfoInputs.cache
+C:\Users\LawterN\Downloads\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfo.cs
+C:\Users\LawterN\Downloads\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csproj.Fody.CopyLocal.cache
+C:\Users\LawterN\Downloads\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.dll
+C:\Users\LawterN\Downloads\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.pdb

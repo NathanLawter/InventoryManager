@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CTpl5jMz2cR9qh2rvG0eWwCYBykTuPwYVW1ZkB/vzgS9GJxwGqcua/jmOhWcWqsnDOGS9Yyydkj1GaNTnPyGmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LawterN\\Downloads\\InventoryManager\\InventoryManager.Data\\InventoryManager.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LawterN\\.nuget\\packages\\fody\\6.0.0\\fody.6.0.0.nupkg.sha512",
+    "C:\\Users\\LawterN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LawterN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\LawterN\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\LawterN\\.nuget\\packages\\propertychanged.fody\\3.1.3\\propertychanged.fody.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
